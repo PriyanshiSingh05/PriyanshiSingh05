@@ -1,12 +1,11 @@
 <!-- 🌈 Modern Premium GitHub Profile README for Priyanshi Singh -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=AA7BFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Priyanshi+Singh+👋;Final+Year+Computer+Science+Student;Full+Stack+Developer+%7C+ML+Explorer;Building+Impactful+Digital+Experiences+✨" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:5e00ff&height=230&text=Priyanshi%20Singh&fontAlignY=40&fontSize=60&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=6A5ACD" />
-</p>
+<h2 align="center">⚡ Final Year CSE Student | Full-Stack Developer | ML Explorer | Cloud Enthusiast ⚡</h2> 
+
 
 ---
 
@@ -93,16 +92,33 @@
 - 🧩 Delivered blockchain workshops educating 100+ students  
 
 ---
-
-# 📊 **GitHub Analytics**
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PriyanshiSingh05&show_icons=true&hide_border=true&title_color=C8A2FF&text_color=ffffff&icon_color=AA7BFF&bg_color=00000000" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiSingh05&layout=compact&hide_border=true&title_color=C8A2FF&text_color=ffffff&bg_color=00000000" />
+  <!-- GitHub Trophies (Stable & Beautiful) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=PriyanshiSingh05&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PriyanshiSingh05&hide_border=true&ring=C8A2FF&fire=AA7BFF&currStreakLabel=ffffff&background=00000000" />
+  <!-- Contribution Snake (Stable SVG) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<br>
+
+<p align="center">
+  <!-- Static Top Language Badges (Never Break) -->
+  <img src="https://img.shields.io/badge/Python-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ff00ff?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0047ff?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-00eaff?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-0055ff?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center" style="font-size: 12px; opacity: 0.7;">
+  *This analytics section is fully stable — no API limits, no broken charts.*
 </p>
 
 ---
