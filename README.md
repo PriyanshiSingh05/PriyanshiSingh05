@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=9370DB&height=90&text=Tech%20Stack&fontSize=36&fontColor=ffffff&stroke=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=9370DB&height=90&text=Technical%20Skills&fontSize=36&fontColor=ffffff&stroke=ffffff" />
 </p>
 
 ---
