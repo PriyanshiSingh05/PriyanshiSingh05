@@ -20,7 +20,7 @@
 
 ---
 
-# 💡 Skills & Technologies (Neon Glow)
+# 💡 Skills & Technologies
 
 ### 🌐 Languages  
 ![Java](https://img.shields.io/badge/Java-ff00ff?style=for-the-badge&logo=java&logoColor=white)
@@ -58,7 +58,7 @@
 
 ---
 
-# 🚀 Major Projects (Neon Edition)
+# 🚀 Major Projects
 
 ## ⚡ CropGuard — Deep Learning Crop Disease Detection  
 📌 *Oct 2024 – Apr 2025*  
@@ -103,15 +103,34 @@
 
 ---
 
-# 🎛 Neon GitHub Stats  
+
+## 📊 GitHub Overview
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PriyanshiSingh05&show_icons=true&theme=tokyonight&icon_color=ff00ff&title_color=8a2be2&text_color=ffffff" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiSingh05&layout=compact&theme=tokyonight&title_color=8a2be2&text_color=ffffff" />
+  <!-- Profile Trophies (stable) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=PriyanshiSingh05&theme=gruvbox&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyanshiSingh05&theme=tokyonight_duo&ring=ff00ff&fire=ff00ff&currStreakLabel=ffffff" />
+  <!-- Contribution grid "snake" (static SVG) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg?sanitize=true&user=PriyanshiSingh05&theme=github-dark" alt="Contribution Grid" style="max-width:100%;" />
 </p>
+
+<p align="center">
+  <!-- Top languages (static badges showing your primary languages from resume) -->
+  <img src="https://img.shields.io/badge/Top%20Languages-Python-blueviolet?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ff00ff?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0047ff?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-00eaff?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-0055ff?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center" style="opacity:0.9;font-size:12px">
+  If any image doesn't load immediately, refresh the page once — these services are much more stable than the rate-limited stats API.
+</p>
+
+<!-- ===== End Stable Stats Section ===== -->
+
 
 ---
 
