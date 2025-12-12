@@ -118,7 +118,7 @@
 </p>
 
 <p align="center" style="font-size: 12px; opacity: 0.7;">
-  *This analytics section is fully stable — no API limits, no broken charts.*
+ 
 </p>
 
 ---
