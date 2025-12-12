@@ -46,9 +46,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:5e00ff&height=230&text=Projects%20!&fontAlignY=40&fontSize=60&fontColor=ffffff" />
-</p>
 
 # 🚀 **Major Projects**
 
