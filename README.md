@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:5e00ff&height=230&text=Priyanshi%20Singh&fontAlignY=40&fontSize=60&fontColor=ffffff" />
 </p>
 
-<h2 align="center">⚡ Final Year CSE Student | Full-Stack Developer | ML Explorer | Cloud Enthusiast ⚡</h2> 
+<h2 align="center">⚡ Final Year CSE Student | Software Engineer | ML Explorer | Cloud Enthusiast ⚡</h2> 
 
 
 ---
