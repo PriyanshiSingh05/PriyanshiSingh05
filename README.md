@@ -32,15 +32,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshiSingh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PriyanshiSingh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyanshiSingh05&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=PriyanshiSingh05&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiSingh05&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PriyanshiSingh05&layout=compact&theme=tokyonight" />
 </p>
 
 ---
