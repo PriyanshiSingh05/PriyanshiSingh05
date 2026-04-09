@@ -11,7 +11,7 @@
 
 # 🌟 **About Me**
 
-🎓 Final-year **Computer Science Engineering** student at **VIT Bhopal University**  
+🎓 Final-year **Computer Science Engineering** student at **Vellore Institute Of Technology**  
 💡 Passionate about **Machine Learning**, **Full-Stack Engineering**, and **Cloud Computing**  
 🧑‍💻 Skilled in building scalable systems using **Django, Python, MySQL, Java, and JavaScript**  
 🌱 Contributor at **GSSoC 2024**  
@@ -49,7 +49,7 @@
 
 # 🚀 **Major Projects**
 
-## 🌱 **CropGuard – Deep Learning Crop Disease Detection**
+## 🌱 **GreenShield – Deep Learning Crop Disease Detection**
 **Tech:** Python, Django, CNN, HTML/CSS  
 - Built a deep-learning powered application to detect plant diseases from leaf images  
 - Achieved **97% prediction accuracy** using a CNN model  
@@ -60,7 +60,7 @@
 
 ---
 
-## 🏛️ **RationSewa – Digital Public Distribution Platform (Major Project)**  
+## 🏛️ **SmartRation – Digital Public Distribution Platform (Major Project)**  
 **Tech:** Python, Django, MySQL  
 - Developed a scalable digital ration distribution system for **1,000+ users**  
 - Reduced manual overhead by **45%** through automation  
@@ -77,6 +77,7 @@
 - Conducted race data analysis using the FastF1 framework  
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=6A5ACD" />
 </p>
@@ -84,7 +85,6 @@
 # 🏆 **Achievements**
 
 - 🎖 **Contributor – GirlScript Summer of Code (GSSoC) 2024**  
-- 🎖 Scored **89% (A Grade)** in AWS Solutions Architect training (Ethnus + VIT)  
 - 🎤 Coordinated major tech events: Foragers 2.0, CryptoQuest, CryptoCarnival  
 - 🧩 Delivered blockchain workshops educating 100+ students  
 
